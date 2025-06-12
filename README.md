@@ -63,11 +63,11 @@ This repository contains two machine learning projects aimed at deepening unders
 - **Classification:** Accuracy, Precision, Recall, F1-score
 
 ## 🤝 Team Members
-- Akram FADENE (G02 01)
-- Ahmed SAYAD (G02 01)
-- Islam Mohamed Eldera ABDERREZAK (G04 01)
-- Ahmed Elamine MOUCHAAL (G04 01)
-- Mohammed El Amine KICHAH (G04 01)
+- Akram FADENE
+- Ahmed SAYAD
+- Islam Mohamed Eldera ABDERREZAK
+- Ahmed Elamine MOUCHAAL
+- Mohammed El Amine KICHAH
 
 ## 📌 Conclusion
 - The **Random Forest Regressor** excelled in the house price prediction task.
